@@ -1,4 +1,4 @@
-# angular-kanban
+# kanban-angular
 
 ## Passos
 Para executar o projeto basta rodar os seguintes comandos na pasta BACK:
