@@ -1,17 +1,23 @@
 # angular-kanban
 
-##Passos
+## Passos
 Para executar o projeto basta rodar os seguintes comandos na pasta BACK:
 
-`npm i`
-`npm run server`
+```
+npm i
+
+npm run server`
+```
 
 E os seguintes comandos na pasta FRONT
 
-`npm i -f`
-`ng serve`
+```
+npm i -f
 
-##Considerações:
+ng serve
+```
+
+## Considerações:
 
 Primeiramente, gostaria de agradecer a oportunidade, gostei bastante da proposta do teste, e tive a oportunidade neste meio tempo de atualizar meus conhecimentos em função das atualizações do Angular. 
 
